@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Room Tests</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameRequest">Nome</string>
+    <string name="lastNameRequest">Sobrenome</string>
+    <string name="saveUserButtonText">Salvar</string>
+    <string name="ageRequest">Idade</string>
+    <string name="addUser">Adicionar usuário</string>
+    <string name="editUserButtonText">Editar</string>
+</resources>
